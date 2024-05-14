@@ -1,0 +1,21 @@
+.nfxb {
+    position: absolute;
+    border-radius: 20px;
+    float: left;
+    box-shadow: 4px 4px 8px 1px #b8b7b7;
+    margin-top: 68px; 
+    margin-left: 45%;
+    padding-bottom: 15%;
+    padding-right: 23%;
+}
+
+.nfxb h1 {
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+.nfxb h2 {
+    font-size: 14px;
+    color: #b8b7b7;
+    margin-left: 10px;
+} 

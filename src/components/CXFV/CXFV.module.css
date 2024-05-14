@@ -1,0 +1,15 @@
+.cxfv {
+    position: absolute;
+    border-radius: 20px;
+    float: left;
+    box-shadow: 4px 4px 8px 1px #b8b7b7;
+    margin-top: 410px; 
+    margin-left: 10px;
+    padding-bottom: 18%;
+    padding-right: 45%;
+}
+
+.cxfv h1 {
+    font-size: 18px;
+    margin-left: 10px;
+}
